@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <title>Rólam</title>
-        <link rel="stylesheet" href="./css/alap.css">
+        <link rel="stylesheet" href="alap.css">
     </head>
     <body>
         <nav>
@@ -12,10 +12,10 @@
                 <div class="oszlop-tele">
                     <div class="navigacio-keret">
                         <ul>
-                            <li><a href="./index.html">Rólam</a></li>
-                            <li><a href="./hobbi.html">Hobbi</a></li>
-                            <li><a href="./elerhetoseg.html">Elérhetőség</a></li>
-                            <li><a href="./feladatleiras.html">Feladatleírás</a></li>
+                            <li><a href="index.html">Rólam</a></li>
+                            <li><a href="hobbi.html">Hobbi</a></li>
+                            <li><a href="elerhetoseg.html">Elérhetőség</a></li>
+                            <li><a href="feladatleiras.html">Feladatleírás</a></li>
                         </ul>
                     </div>
                 </div>
@@ -27,10 +27,10 @@
         </div>
         <div class="keret tartalom-kozepre margo-fent-1">
             <div class="oszlop-6 szoveg-kozep">
-                <img src="./kepek/kesz1.jpg" class="munkak-kep" alt="Kész munkám" title="Kész munkám">
+                <img src="kesz1.jpg" class="munkak-kep" alt="Kész munkám" title="Kész munkám">
             </div>
             <div class="oszlop-6 szoveg-kozep">
-                <img src="./kepek/kesz2.jpg" class="munkak-kep" alt="Kész munkám" title="Kész munkám">
+                <img src="kesz2.jpg" class="munkak-kep" alt="Kész munkám" title="Kész munkám">
             </div>
         </div>
         <div class="keret margo-fent-2 szoveg-kozep">
@@ -39,10 +39,10 @@
         </div>
         <div class="keret tartalom-kozepre margo-fent-1">
             <div class="oszlop-6 szoveg-kozep">
-                <img src="./kepek/felkesz1.jpg" class="munkak-kep" alt="Félkész munkám" title="Félkész munkám">
+                <img src="felkesz1.jpg" class="munkak-kep" alt="Félkész munkám" title="Félkész munkám">
             </div>
             <div class="oszlop-6 szoveg-kozep">
-                <img src="./kepek/felkesz2.jpg" class="munkak-kep" alt="Félkész munkám" title="Félkész munkám">
+                <img src="felkesz2.jpg" class="munkak-kep" alt="Félkész munkám" title="Félkész munkám">
             </div>
         </div>
     </body>
