@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <title>Rólam</title>
-        <link rel="stylesheet" href="./css/alap.css">
+        <link rel="stylesheet" href="alap.css">
     </head>
     <body>
         <nav>
@@ -12,10 +12,10 @@
                 <div class="oszlop-tele">
                     <div class="navigacio-keret">
                         <ul>
-                            <li><a href="./index.html">Rólam</a></li>
-                            <li><a href="./hobbi.html">Hobbi</a></li>
-                            <li><a href="./elerhetoseg.html">Elérhetőség</a></li>
-                            <li><a href="./feladatleiras.html">Feladatleírás</a></li>
+                            <li><a href="index.html">Rólam</a></li>
+                            <li><a href="hobbi.html">Hobbi</a></li>
+                            <li><a href="elerhetoseg.html">Elérhetőség</a></li>
+                            <li><a href="feladatleiras.html">Feladatleírás</a></li>
                         </ul>
                     </div>
                 </div>
