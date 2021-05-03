@@ -1,0 +1,76 @@
+.keret {
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+.tartalom-kozepre{
+    display: flex;
+    justify-content: center;
+}
+
+.keret-tele{
+    max-width: 100%;
+	margin: 0 auto;
+}
+
+.oszlop-1 { flex-basis: 8.333%; }
+.oszlop-2 { flex-basis: 16.666%; }
+.oszlop-3 { flex-basis: 25%; }
+.oszlop-4 { flex-basis: 33.333%; }
+.oszlop-5 { flex-basis: 41.666%; }
+.oszlop-6 { flex-basis: 50%;}
+.oszlop-tele { flex-basis: 100%; }
+
+.szoveg-kozep{
+    text-align: center;
+}
+
+.navigacio-keret li{
+    display: inline;
+}
+
+.hatter{
+    background-color: lightskyblue;
+}
+
+.margo-fent-1{
+    margin-top: 20px;;
+}
+
+.margo-fent-2{
+    margin-top: 60px;;
+}
+
+.margo-lent-1{
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    width: 50%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.kerek-kep{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.munkak-kep{
+    width: 80%;
+    border-radius: 10%;
+}
+
+.sima-kep{
+    width: 50%;
+}
+
+p{
+    font-size: 18px;
+}
+
