@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html lang="hu">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-        <title>Rólam</title>
         <link rel="stylesheet" href="alap.css">
     </head>
     <body>
@@ -13,9 +11,9 @@
                     <div class="navigacio-keret">
                         <ul>
                             <li><a href="index.md">Rólam</a></li>
-                            <li><a href="hobbi.md">Hobbi</a></li>
+                            <li><a href="hobbi.html">Hobbi</a></li>
                             <li><a href="elerhetoseg.html">Elérhetőség</a></li>
-                            <li><a href="feladatleiras.md">Feladatleírás</a></li>
+                            <li><a href="feladatleiras.html">Feladatleírás</a></li>
                         </ul>
                     </div>
                 </div>
