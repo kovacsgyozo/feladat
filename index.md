@@ -14,7 +14,7 @@
                         <ul>
                             <li><a href="index.md">Rólam</a></li>
                             <li><a href="hobbi.md">Hobbi</a></li>
-                            <li><a href="elerhetoseg.md">Elérhetőség</a></li>
+                            <li><a href="elerhetoseg.html">Elérhetőség</a></li>
                             <li><a href="feladatleiras.md">Feladatleírás</a></li>
                         </ul>
                     </div>
